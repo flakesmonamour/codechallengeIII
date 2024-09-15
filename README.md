@@ -1,5 +1,4 @@
-# codechallengeIII
-Here's a sample README.md file that you can include for your project, covering key aspects like setup, usage, and features. You can modify it based on the specifics of your project.
+ # codechallengeIII
 Freebie Tracking App
 Project Overview
 
